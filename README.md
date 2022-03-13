@@ -1,6 +1,8 @@
-# Basic Sample Hardhat Project
+# Basic project from buildspace
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Mint your own NFT collection and ship a Web3 app to show them off
+
+https://buildspace.so/
 
 Try running some of the following tasks:
 
